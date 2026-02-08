@@ -56,3 +56,4 @@ Se inicia la simulación en Gazebo.
 
 El video de demostración se encuentra en [este archivo descargable](images/video/gazebo.webm)
 ![a](images/demostracion_gazebo.png)
+# arm3dof_camera
